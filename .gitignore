@@ -1,0 +1,13 @@
+node_modules/
+data/
+.env
+reports/
+web/dist/
+web/dist-single/
+
+# local / tooling
+.DS_Store
+.pi/
+AGENTS.md
+CLAUDE.md
+_flex.ts
